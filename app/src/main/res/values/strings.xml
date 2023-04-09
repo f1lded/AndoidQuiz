@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizBabe</string>
+    <string name="welcome_text">Hello,bob</string>
+    <string name="welcome_user_text">Hello,%1$s</string>
+    <string name="welcome_user">Hello,Вяленый Тряпок 2044 люблю тебя ты мой папа спасибо за дество , b00bs</string>
+    <string name="next_button_text">Continue</string>
+    <string name="debug_value">GusHovanskiy</string>
+    <string name="user_name_placeholder">Enter</string>
+</resources>
