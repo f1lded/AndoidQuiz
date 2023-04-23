@@ -6,4 +6,8 @@
     <string name="next_button_text">Continue</string>
     <string name="debug_value">GusHovanskiy</string>
     <string name="user_name_placeholder">Enter</string>
+    <string name="anwser_button">CompleteS</string>
+    <string name="score_button">Restart</string>
+    <string name="user_result">Your result: %1$d</string>
+
 </resources>
